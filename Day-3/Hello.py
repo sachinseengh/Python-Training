@@ -15,3 +15,6 @@ print(f"The sum is {a+b}")
 print("Expo",a**a)
 print(type(a))
 print("Hello World")
+
+
+
