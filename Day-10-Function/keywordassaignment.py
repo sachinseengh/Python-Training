@@ -5,7 +5,10 @@ def perform_math_operation(n1,n2,oper):
     elif(oper== "-"):
         print(f"The sub of {n1} and {n2} is {n1-n2}")
     elif(oper== "/"):
-        print(f"The div of {n1} and {n2} is {n1/n2}")
+        if(n2==0):
+            print("Cannot be divisible by Zeo")
+        else:
+            print(f"The div of {n1} and {n2} is {n1/n2}")
     elif(oper== "*"):
         print(f"The mul of {n1} and {n2} is {n1-n2}")
     else:
