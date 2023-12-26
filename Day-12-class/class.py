@@ -22,6 +22,21 @@ class Student:
 # modification in class
 s1= Student()
 
+
 s1.id=5
 print(s1.id) #Answer is 5
+
+
+
+
 s1.detail()
+
+
+
+
+
+# to delete the object of class
+del s1
+
+# to delete the property of objec
+del s1.id
