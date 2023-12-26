@@ -4,7 +4,8 @@ class Calculator:
         self.n2= n2
         
     def sum(self):
-        print(f"The sum is {self.n1+self.n2}")
+        # print(f"The sum is {self.n1+self.n2}")
+        return self.n1+self.n2
         
     def sub(self):
         print(f"The sub is {self.n1-self.n2}")
@@ -17,7 +18,8 @@ class Calculator:
         
     
 c1= Calculator(5,5)
-c1.sum()
+res=c1.sum()
+print(res)
 c1.sub()
 c1.div()
 c1.mul()
