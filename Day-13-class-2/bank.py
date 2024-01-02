@@ -25,17 +25,21 @@ class BankAccount:
     def balance(self):
         print(f"Your balance is {self.__balance}")
         
+
+
         
 account_1 = BankAccount("Sachin",1588,"Bafal")
 
 account_1.balance()
-print("------------------------------------------")
-account_1.deposit(500)
-print("------------------------------------------")
-account_1.balance()
-print("------------------------------------------")
-account_1.withdraw(100)
+d = int(input("Enter the amount you want to deposit :"))
+
+account_1.deposit(d)
 print("------------------------------------------")
 account_1.balance()
-print("------------------------------------------")
-account_1.withdraw(1000)
+
+w = int(input("Enter the amount you want to withdrawl :"))
+
+account_1.withdraw(w)
+
+account_1.balance()
+
