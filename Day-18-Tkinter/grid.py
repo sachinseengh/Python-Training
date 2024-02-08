@@ -11,10 +11,11 @@ window.title("GUI")
 
 # Textfield
 my_textfield = ttk.Entry(master=window)
-my_textfield.place(x=100,y=100)
+# pady for vertical gap
+my_textfield.grid(row=0,column=0)
 
 my_textfield2 = ttk.Entry(master=window)
-my_textfield2.place(x=100,y=130)
+my_textfield2.grid(row=1,column=0)
 
 
 
@@ -30,14 +31,14 @@ def my_button_handler():
 
 # there is no parenthesis while calling function it means it will only call when the button is clicked
 my_button = ttk.Button(master=window,text="Add",command=my_button_handler)
-my_button.place(x=120,y=160)
+my_button.grid(row=2,column=0)
 my_button
 
 
 # we can import font class
 # so font = font.FONt(size=25)
 result_label = ttk.Label(master=window,text="result =",font=("Arial",16))
-result_label.place(x=100,y=185)
+result_label.grid(row=3,column=0)
 
 
 window.mainloop()
