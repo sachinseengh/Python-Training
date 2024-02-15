@@ -1,4 +1,4 @@
-class Developer:
+# class Developer:
 #     def __init__(self,name,address,salary,programming_language):
 #         self.name=name
 #         self.address=address
