@@ -16,3 +16,6 @@ g= input("Enter your caste")
 print(g)
 h= input("Enter your caste")
 print(h)
+
+i= input("Enter your caste")
+print(i)
