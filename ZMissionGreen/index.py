@@ -19,3 +19,5 @@ print(h)
 
 i= input("Enter your caste")
 print(i)
+j= input("Enter your caste")
+print(j)
