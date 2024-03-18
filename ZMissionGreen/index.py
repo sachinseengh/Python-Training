@@ -27,3 +27,6 @@ print(l)
 
 m= input("Enter your caste")
 print(m)
+
+m= input("Enter your caste")
+print(m)
