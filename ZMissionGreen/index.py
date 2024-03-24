@@ -35,3 +35,6 @@ print(m)
 
 n= input("Enter your caste")
 print(n)
+
+o= input("Enter your caste")
+print(o)
