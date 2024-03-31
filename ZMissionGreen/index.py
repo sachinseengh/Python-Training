@@ -30,6 +30,8 @@
 
 # m= input("Enter your caste")
 # print(m)
+n= input("Enter your caste")
+print(n)
 
 
 
