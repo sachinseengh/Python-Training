@@ -47,3 +47,5 @@ print(q)
 
 r= input("Enter your caste")
 print(r)
+s= input("Enter your caste")
+print(s)
