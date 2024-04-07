@@ -56,3 +56,6 @@ u= input("Enter your caste")
 print(u)
 v= input("Enter your caste")
 print(v)
+
+x= input("Enter your caste")
+print(x)
