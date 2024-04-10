@@ -44,3 +44,5 @@ print(n)
 
 y= input("Enter your caste")
 print(y)
+z= input("Enter your caste")
+print(z)
