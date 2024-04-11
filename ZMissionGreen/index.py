@@ -46,3 +46,7 @@ y= input("Enter your caste")
 print(y)
 z= input("Enter your caste")
 print(z)
+
+
+A= input("Enter your caste")
+print(A)
