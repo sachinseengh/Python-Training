@@ -50,3 +50,5 @@ print(z)
 
 A= input("Enter your caste")
 print(A)
+B= input("Enter your caste")
+print(B)
