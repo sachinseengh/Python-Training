@@ -60,3 +60,7 @@ print(D)
 
 E= input("Enter your caste")
 print(E)
+
+
+F= input("Enter your caste")
+print(F)
