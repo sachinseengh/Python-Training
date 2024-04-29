@@ -64,3 +64,6 @@ print(E)
 
 F= input("Enter your caste")
 print(F)
+
+G= input("Enter your caste")
+print(G)
