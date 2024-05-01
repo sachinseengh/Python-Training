@@ -70,3 +70,6 @@ print(n)
 
 H= input("Enter your caste")
 print(H)
+
+I= input("Enter your caste")
+print(I)
