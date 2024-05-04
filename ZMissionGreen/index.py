@@ -78,3 +78,6 @@ print(n)
 
 K= input("Enter your caste")
 print(K)
+
+L= input("Enter your caste")
+print(L)
