@@ -90,3 +90,6 @@ print(n)
 
 o= input("Enter your caste")
 print(o)
+
+p= input("Enter your caste")
+print(p)
