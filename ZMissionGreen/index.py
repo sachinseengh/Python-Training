@@ -93,3 +93,6 @@ print(o)
 
 p= input("Enter your caste")
 print(p)
+
+q= input("Enter your caste")
+print(q)
