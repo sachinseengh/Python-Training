@@ -102,3 +102,5 @@ print(r)
 
 s= input("Enter your caste")
 print(s)
+t= input("Enter your caste")
+print(t)
