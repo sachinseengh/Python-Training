@@ -12,3 +12,7 @@ c=input("Enter your age")
 print(c)
 d=input("Enter your age")
 print(d)
+
+
+e=input("Enter your age")
+print(e)
