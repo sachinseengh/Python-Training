@@ -19,3 +19,6 @@ print(e)
 
 f=input("Enter your age")
 print(f)
+
+g=input("Enter your age")
+print(g)
