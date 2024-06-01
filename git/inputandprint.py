@@ -27,3 +27,6 @@ print(h)
 
 i=input("Enter your age")
 print(i)
+
+j=input("Enter your age")
+print(j)
