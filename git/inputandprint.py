@@ -33,3 +33,6 @@ print(j)
 
 k=input("Enter your age")
 print(k)
+
+L=input("Enter your age")
+print(L)
