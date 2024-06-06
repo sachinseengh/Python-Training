@@ -38,3 +38,6 @@ L=input("Enter your age")
 print(L)
 M=input("Enter your age")
 print(M)
+
+N=input("Enter your age")
+print(N)
