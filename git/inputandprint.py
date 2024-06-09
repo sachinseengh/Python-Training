@@ -44,3 +44,5 @@ print(N)
 
 O=input("Enter your age")
 print(O)
+P=input("Enter your age")
+print(P)
