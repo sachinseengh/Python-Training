@@ -49,3 +49,5 @@ print(P)
 
 Q=input("Enter your age")
 print(Q)
+R=input("Enter your age")
+print(R)
