@@ -51,3 +51,6 @@ Q=input("Enter your age")
 print(Q)
 R=input("Enter your age")
 print(R)
+
+S=input("Enter your age")
+print(S)
