@@ -14,5 +14,6 @@ if(response.status_code== 200):
     a = Advice(data=response.json());
     print(a.advice)
     
+    # git clone is done after laptop reset
 
    
